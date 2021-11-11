@@ -21,7 +21,7 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
   - jekyll-gist
