@@ -35,4 +35,14 @@ maven支持的构建包括：
 
 1. mvn compile
    编译src/main目录下的所有Java文件
-2.
+2. 
+
+## MAVEN 坐标
+
+Maven的坐标用来描述仓库中资源的位置
+
+坐标主要构成：
+
+* groupId：定义当前的Maven项目隶属于的组织名称
+* artifactId：定义当前项目的名称
+* version：版本号
